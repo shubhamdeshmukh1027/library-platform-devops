@@ -2,9 +2,6 @@
 
 Unit 4: Infrastructure Automation (Cloud DevOps Engineering Series, Careertiq)
 
-**Student:** [Aapka Naam]
-**Roll No / Batch:** [Roll No / Batch]
-**Trainer:** [Sir ka Naam]
 
 ## About
 
