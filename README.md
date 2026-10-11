@@ -1,4 +1,4 @@
-# Enterprise Smart Library Platform: DevOps Hands-On Lab
+# Enterprise Smart Library Management Platform: DevOps Hands-On Lab
 
 Unit 4: Infrastructure Automation (Cloud DevOps Engineering Series, Careertiq)
 
