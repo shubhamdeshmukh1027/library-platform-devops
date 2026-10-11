@@ -1,0 +1,9 @@
+*.pem
+*.key
+library-aws-key*
+.aws/
+.ssh/
+*.tfstate
+*.tfstate.*
+.terraform/
+*.tfvars
