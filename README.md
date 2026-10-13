@@ -145,10 +145,10 @@ flowchart LR
 library-platform-devops/
 ├── README.md
 ├── .gitignore
-├── chapter-2/
+├── Unit 4 Document 1/
 │   ├── screenshots/
-│   └── Chapter-2-Report
-└── chapter-3/
+│   └── Chapter-2-Professional-Report.docx
+└── Unit 4 Document 2/
     ├── screenshots/
     ├── terraform/
     │   ├── main.tf
@@ -156,7 +156,7 @@ library-platform-devops/
     │   ├── outputs.tf
     │   ├── providers.tf
     │   └── .terraform.lock.hcl
-    └── Chapter-3-Report
+    └── Chapter-3-Terraform-Report.docx
 ```
 
 > Adjust file names above if your `.tf` files are named differently.
@@ -260,7 +260,7 @@ flowchart TD
 ### Run the Lab
 
 ```bash
-cd chapter-3/terraform
+cd "Unit 4 Document 2/terraform"
 
 terraform init
 terraform fmt
