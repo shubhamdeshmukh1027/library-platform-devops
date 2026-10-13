@@ -355,7 +355,7 @@ gantt
 
 ## Reports
 
-Detailed written reports for each chapter are available in their respective chapter folders.
+Detailed written reports for each chapter are available in their respective unit folders.
 
 ---
 
